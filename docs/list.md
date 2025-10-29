@@ -153,7 +153,37 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
+### F
+
+#### Flexprice
+
+- **Swag**: Flexprice Hacktoberfest swag pack (stickers, T-shirt, and tote bag) + social media shoutouts for top contributors.
+- **Requirements**:
+    - Join the [Flexprice Slack community](https://join.slack.com/t/flexpricecommunity/shared_invite/zt-39uat51l0-n8JmSikHZP~bHJNXladeaQ).
+    - Contribute between **Oct 1–31, 2025** to any of the following repositories:
+        - [Flexprice](https://github.com/flexprice/flexprice)
+        - [Flexprice Dashboard](https://github.com/flexprice/flexprice-front/issues)
+        - [Flexprice Docs](https://github.com/flexprice/flexprice-docs/issues)
+        - [Flexprice SDKs (TS/Python/Go)](https://github.com/flexprice/javascript-sdk/issues)
+    - Pick an issue labelled `hacktoberfest`, `good first issue`, `help wanted`, `bug`, `enhancement`, or `documentation`.
+    - Comment “I’m on it”, open a PR that passes checks, and follows the contribution template.
+- **How to sign up**: No separate signup form — contributions are tracked automatically via merged PRs and Slack participation.
+- **Issues**: [Flexprice Hacktoberfest issues](https://github.com/flexprice/flexprice/issues?q=is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: [Official announcement on X (Twitter)](https://twitter-thread.com/t/1974412729990701385).
+
 ### G
+
+#### **GibsonAI**
+
+- **Swag**: T-shirt, stickers and a surprise swag pack.
+- **Requirements**:
+    - Contribute to GibsonAI/memori, be eligible to win awards based on contribution level.
+    - Level 1 - Fix issues or improve documentation to win stickers.
+    - Level 2 - For feature enhancement or new integration win a T-shirt.
+    - Level 3 - Add major feature to win a swag pack with surprise inside.
+- **How to sign up**: No known signup link.
+- **Issues**: [All open issues at GibsonAI/memori](https://github.com/GibsonAI/memori/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
+- **Notes**: Check the [GibsonAI/memori repository](https://github.com/GibsonAI/memori/issues/127) for more details.
 
 #### **Globo**
 
@@ -168,7 +198,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### **goose**
 
 - **Swag**: Gift cards to the goose swag shop and LLM credits.
-- **Requirements**: PRs must be merged with the `hacktoberfest-accepted` label to `hacktoberfest`-labeled issues in the [goose repository](https://github.com/block/goose). Grab issues by commenting ".take". Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
+- **Requirements**: PRs must be merged with the `hacktoberfest-accepted` label to `hacktoberfest` labelled issues in the [goose repository](https://github.com/block/goose). Grab issues by commenting ".take". Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
     - Top 1-5 Contributors: $100 gift card to goose swag shop + $100 LLM credits
     - Top 6-10 Contributors: $50 gift card to goose swag shop + $50 LLM credits
     - Top 11-20 Contributors: $25 LLM credits
@@ -312,6 +342,18 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Attend **at least 5 live sessions** during Global Hack Week to earn bonus stickers
 - **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
 - **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
+
+### O
+
+#### **Olake**
+
+- **Swag**: Jacket, diaries, pens and stickers.
+- **Requirements**:  Contribute to open issues at one of the two participating Olake repositories.
+- **How to sign up**: No known signup method.
+- **Issues**:
+      - [Olake UI](https://github.com/datazip-inc/olake-ui/issues)
+      - [Olake Core](https://github.com/datazip-inc/olake/issues)
+- **Notes**: For more information check out [this post on X](https://x.com/cappybaradeploy/status/1973027154041729331).
 
 ### Q
 
